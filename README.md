@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrivAnushka
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate in website development.
+- 💞️ I’m looking to colaborate in website development.
 - 📫 How to reach me anushkasrivastava511@gmail.com
 
 <!---
